@@ -4,6 +4,8 @@
 
 <img src="https://github.com/L11-github/super/blob/master/src/assets/img-storage/1.png">
 
+![img text](https://github.com/L11-github/super/blob/master/src/assets/img-storage/1.png)
+
 ## Project setup
 
 ```
