@@ -2,6 +2,8 @@
 
 ## 项目核心截图
 
+<img src="https://github.com/L11-github/super/blob/master/src/assets/img-storage/1.png">
+
 ## Project setup
 
 ```
