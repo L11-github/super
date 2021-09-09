@@ -16,11 +16,11 @@
     <div class="set">
         <div class="setIn">
             <img src="~assets/img/profile/cart.svg" alt="">
-            <span>设置</span>
+            <span>购物车</span>
         </div>
         <div class="setIn">
             <img src="~assets/img/profile/shopping.svg" alt="">
-            <span>关于</span>
+            <span>商城</span>
         </div>
     </div>
   </div>
